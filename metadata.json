@@ -1,0 +1,6 @@
+{
+  "name": "Astra Strike",
+  "description": "High-fidelity offline physics-based firing game with custom weapon upgrades, branching campaign storyline, destructible environments, and modding sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Aiming Wings/Axes -->
+    <path
+        android:pathData="M24,54 L84,54"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:pathData="M54,24 L54,84"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Outer Tech Circle -->
+    <path
+        android:pathData="M54,54 m -28,0 a 28,28 0 1,1 56,0 a 28,28 0 1,1 -56,0"
+        android:strokeWidth="6"
+        android:strokeColor="#00E676"
+        android:strokeLineCap="round" />
+
+    <!-- Inner Core Target -->
+    <path
+        android:pathData="M54,54 m -12,0 a 12,12 0 1,1 24,0 a 12,12 0 1,1 -24,0"
+        android:fillColor="#FF1744" />
+
+    <!-- Core Center Dot -->
+    <path
+        android:pathData="M54,54 m -4,0 a 4,4 0 1,1 8,0 a 4,4 0 1,1 -8,0"
+        android:fillColor="#FFFFFF" />
+</vector>
